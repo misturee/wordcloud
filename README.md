@@ -1,4 +1,4 @@
 # wordcloud
 Wordcloud project, supports Chinese!
 
-![Image of Yaktocat](cloud.jpg)
+![Sample Cloud](cloud.jpg)
